@@ -56,5 +56,4 @@ public abstract class ExtendedAudioTrack extends DelegatedAudioTrack {
 	public boolean isPreview() {
 		return this.isPreview;
 	}
-
 }

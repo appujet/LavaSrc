@@ -8,7 +8,7 @@ data class Config(
     val appleMusic: AppleMusicConfig? = null,
     val deezer: DeezerConfig? = null,
     val yandexMusic: YandexMusicConfig? = null,
-    val vkMusic: VkMusicConfig? = null,
+    val vkMusic: VkMusicConfig? = null
 )
 
 @Serializable
